@@ -1,6 +1,5 @@
+sum = 0
+for n in range(0,10,4):
+    sum = sum + n
 
-name = input("Enter you name : ")
-print("Text from ",name)
-
-name = input("Enter you name : ")
-print("Text from ",name)
+print(sum)
